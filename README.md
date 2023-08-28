@@ -8,10 +8,10 @@ Welcome to Day 2 of the 100 days of Code. The Complete Python Pro Bootcamp for 2
 - Develop projects to enhance your coding skills and understanding.
 
 ## Concepts Covered
-1.-Data Types in Python.
-2.-Using Mathematical Operations.
-3.-Implementing project-based exercises
-4.-Enhancing problem-solving skills.
+-1.Data Types in Python.
+-2.Using Mathematical Operations.
+-3.Implementing project-based exercises
+-4.Enhancing problem-solving skills.
 
 ## Exercise 1:Data Types
 Python provides several built-in data types such as integers,floats,strings,lists, and booleans.Understanding and working with these data types are crucial in programming.
